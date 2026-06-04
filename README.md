@@ -36,6 +36,7 @@ By using any skill from this list, you acknowledge that you understand the risks
 
 Skills for trading, swaps, lending, yield farming, and DeFi automation.
 
+- **[CTRLabs/ctrl-skill](https://github.com/CTRLabs/ctrl-skill)** - Visual DeFi workflow automation on Base + Ethereum mainnet. Compose triggers (cron, price, balance, `pool.created` for Clanker / Flaunch / Zora / BANKR, `watch.whale`) and actions (Uniswap V4 swaps, USDC payouts, Telegram / Discord notifications) on a canvas; user signs once via EIP-5792, an 8-wallet keeper executes from vault-direct V13 contracts forever under per-swap / per-day caps the user signed
 - **[kukapay/crypto-skills: trading-strategist](https://github.com/kukapay/crypto-skills)** - Generate trading strategies with Binance data, technical indicators (RSI, MACD, Bollinger Bands), and sentiment analysis
 - **[kukapay/crypto-skills: yield-opportunities](https://github.com/kukapay/crypto-skills)** - Find and analyze DeFi yield opportunities across protocols with risk scoring
 - **[kukapay/crypto-skills: meme-scout](https://github.com/kukapay/crypto-skills)** - Scout trending meme coins on DexScreener with risk assessments
