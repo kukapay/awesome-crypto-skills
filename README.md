@@ -235,6 +235,7 @@ Skills for wallet management and onchain identity.
 - **[tetherto: wdk-agent-skills](https://github.com/tetherto/wdk-agent-skills)** - Self-custodial wallet across 20+ blockchains
 - **[OKX OnchainOS: okx-agentic-wallet](https://github.com/okx/onchainos-skills)** - OKX wallet lifecycle management
 - **[MoonPay: moonpay-buy-crypto](https://github.com/moonpay/skills)** - Buy crypto with fiat
+- **[stipend-sh: stipend](https://github.com/stipend-sh/stipend)** - Non-custodial USDC wallet on Base; per-transaction, per-day and per-counterparty caps plus a destination allowlist enforced in code before signing, and x402 auto-pay
 
 ## Skill Collections
 
