@@ -265,6 +265,7 @@ Repositories containing multiple installable crypto skills.
 - **[DefiLlama: defillama-skills](https://github.com/DefiLlama/defillama-skills)** - 10 skills for DeFi analytics
 - **[Minara-AI: skills](https://github.com/Minara-AI/skills)** - Personal AI CFO with trading and wallet skills
 - **[Senpi-ai: senpi-skills](https://github.com/Senpi-ai/senpi-skills)** - 52 autonomous Hyperliquid trading agents
+- **[Superior Skills](https://github.com/Superior-Trade/superior-skills)** - Open Agent Skills for strategy research, backtesting, market intelligence, and deployment across Hyperliquid, Lighter, Aerodrome, and Polymarket
 - **[hummingbot: skills](https://github.com/hummingbot/skills)** - Algorithmic trading infrastructure skills
 - **[Crypto.com: crypto-agent-trading](https://github.com/crypto-com/crypto-agent-trading)** - Crypto.com App and Exchange skills
 - **[Solana Foundation: solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill)** - Solana development skills
