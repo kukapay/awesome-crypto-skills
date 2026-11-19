@@ -150,6 +150,7 @@ Skills for price data, market sentiment, and trading signals.
 - **[OKX OnchainOS: okx-dex-trenches](https://github.com/okx/onchainos-skills)** - Meme pump/trenches token scanning
 - **[Bitget: bitget-skill-hub](https://github.com/BitgetLimited/agent_hub)** - 5 analyst skills: macro-analyst, market-intel, news-briefing, sentiment-analyst, technical-analysis
 - **[MoonPay: messari-deep-research](https://github.com/moonpay/skills)** - Long-form AI research reports via Messari
+- **[StalkChain: token-check](https://github.com/StalkC/stalkchain-plugin/tree/main/skills/token-check)** - Research public crypto token holders, liquidity, and risk indicators with the StalkChain Data MCP. Requires sign-in and credits for metered lookups.
 
 ## Smart Contracts
 
